@@ -5,7 +5,7 @@
 **saikat-panda/saikat-panda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 # 💫 About Me:
-🔭 I’m currently working on Natural language processing<br>🤝 I’m looking for help with Renforment learning<br>🌱 I’m currently learning Voice classification<br>💬 Ask me about Neural networks<br>⚡ I like touching grass
+🔭 I’m currently working on Natural language processing<br>🤝 I’m looking for help with Reinforcement learning<br>🌱 I’m currently learning Voice classification<br>💬 Ask me about Neural networks<br>⚡ I like touching grass
 
 ## 🌐 Socials:
 <p align="left">

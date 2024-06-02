@@ -1,5 +1,5 @@
 <h1 >Hi 👋, I'm Saikat Panda</h1>
-<h3 >A Data engineer and Deep learning enthusiast from India</h3>
+<h3 >A ML developer and Deep learning enthusiast from India</h3>
 
 <!--
 **saikat-panda/saikat-panda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
